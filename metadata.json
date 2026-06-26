@@ -1,0 +1,6 @@
+{
+  "name": "Atlas OS",
+  "description": "The Operating System for Autonomous Business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
